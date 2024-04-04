@@ -27,6 +27,8 @@ WHISPER_MODEL=base # Whisper model that the code is going to use to transcribe a
 - Install the dependencies
 ```pip install -r requirements.txt```
 
+- You would also need `ffmpeg` installed on your linux system or if you are trying this on windows then download the latest version of `ffmpeg.exe` on the root directory of this project.
+
 - Download the [datasets](https://github.com/Shreyas-ITB/VerusDatasets) and put the files under source_documents.
 
 - Run the LLMAPI
