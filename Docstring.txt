@@ -1,0 +1,56 @@
+"""
+A signal handler function that stops LLMAPI upon receiving SIGINT.
+
+Parameters:
+- sig: the signal number
+- frame: the current execution frame
+
+Returns:
+None
+"""
+
+"""
+Loads a single document from the given file path.
+
+Args:
+    file_path (str): The path to the file.
+
+Returns:
+    List[Document]: A list of loaded documents.
+    
+Raises:
+    ValueError: If the file extension is not supported.
+"""
+
+"""
+A function to ingest data and update a vectorstore with embeddings.
+"""
+
+"""
+A function to parse arguments and return the parsed arguments.
+"""
+
+"""
+A function that processes a question using a Hugging Face model and a LlamaCpp model,
+retrieves answers from a database, and returns the answer along with metadata and processing time.
+
+Parameters:
+- question: Question object containing the question to be answered.
+
+Returns:
+- A dictionary containing the answer, the document used to find the answer, and the time taken to process the question.
+"""
+
+"""
+A function to handle file upload and ingestion. 
+Takes a file as input and processes it based on its file type. 
+Returns a message indicating the success of the upload and ingestion process. 
+"""
+
+"""
+Clears all source documents in the specified directory and returns a success message.
+"""
+
+"""
+This function retrieves information from the source directory and the 'models' directory.
+"""
