@@ -35,5 +35,9 @@ WHISPER_MODEL=base # Whisper model that the code is going to use to transcribe a
 ```python3 llmapi.py```
 Now the model should automatically create vectors and run the API for you.
 
+## Discord Test Server
+
+https://discord.gg/N2wVaxHWpH
+
 ## Donations
 - VRSC: [Shreyas-ITB@](https://insight.verus.io/address/Shreyas-ITB@)
